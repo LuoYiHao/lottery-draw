@@ -91,9 +91,14 @@ export default {
   .drawContent{
     font-size: 150px;
     font-weight: bold;
-    margin-top: 40px;
+    margin-top: 50px;
   }
   .btns{
-    margin-top: 30px;
+    margin-top: 40px;
+  }
+  .draw{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
   }
 </style>

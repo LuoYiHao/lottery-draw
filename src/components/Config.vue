@@ -35,3 +35,8 @@ export default {
   }
 }
 </script>
+<style scoped>
+code{
+  color: white;
+}
+</style>
